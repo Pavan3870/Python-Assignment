@@ -46,7 +46,7 @@ type(a2)
 # In[17]:
 
 
-a3 = frozenset(["naveen","gopathi",2,3,4,5,6,(2+1j)])
+a3 = frozenset(["Pavan","Veginati",2,3,4,5,6,(2+1j)])
 
 
 # In[18]:
